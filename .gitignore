@@ -1,0 +1,8 @@
+node_modules
+dist
+*.pem
+yarn-error.log
+config.yml
+.DS_Store
+.next
+.idea
